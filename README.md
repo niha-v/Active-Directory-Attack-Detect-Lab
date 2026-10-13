@@ -2,6 +2,8 @@
 
 # Working - In Progress
 
+<img src = "https://github.com/niha-v/Active-Directory-Attack-Detect-Lab/blob/main/ADA%20Image.jpg" width =500>
+
 Outline
 
 Phase 0 — Plan & isolate
